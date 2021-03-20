@@ -1,1 +1,4 @@
-# simply-todo
+# Simply Todo
+
++ Todo app Practice
+
